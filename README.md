@@ -1,2 +1,2 @@
-# tic-tak-toe
-Tic-Tak-Toe is a game
+# tic-tac-toe
+Tic-Tac-Toe is a game
